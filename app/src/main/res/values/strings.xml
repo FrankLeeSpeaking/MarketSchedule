@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Market Schedule</string>
+    <string name="logo">Mentoring Gardens Logo</string>
+    <string name="user_login">USER NAME</string>
+    <string name="user_password">PASSWORD</string>
+    <string name="login_button">LOGIN</string>
+
+    <string name="town">Town</string>
+    <string name="location">Location</string>
+    <string name="day">day of market</string>
+    <string name="start_time">start time</string>
+    <string name="end_time">end time</string>
+    <string name="start_date">start date</string>
+    <string name="end_date">end date</string>
+    <string name="state">State</string>
+    <string name="onSchedule">Add to Schedule</string>
+    <string name="offSchedule">Remove from Schedule</string>
+    <string name="program_aid">Programme Aide</string>
+
+    <string name="buttonCommitted">View Available Markets</string>
+    <string name="buttonLookUp">Check Your Schedule</string>
+    <string name="buttonCheck">Check Schedule</string>
+
+    <string name="day_header">Market day</string>
+    <string-array name="day_of_week">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+
+</resources>
