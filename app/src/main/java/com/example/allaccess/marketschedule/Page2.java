@@ -20,6 +20,11 @@ public class Page2 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_page2);
 
+
+        //*****************************************************
+
+
+
         final Button committed = findViewById(R.id.btnCommitted);
         final Button potential = findViewById(R.id.btnPotential);
 
